@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (never commit large raw data to GitHub)
+data/raw/
+data/external/
+*.csv
+*.zip
+*.mp4
+*.wav
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# OS-generated files
+.DS_Store
+
+# Secrets & API keys
+secrets.yaml
+*.pem
+*.key
