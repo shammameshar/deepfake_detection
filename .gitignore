@@ -14,7 +14,7 @@ build/
 # Data files (never commit large raw data to GitHub)
 data/raw/
 data/external/
-*.csv
+data/raw/*.csv
 *.zip
 *.mp4
 *.wav
