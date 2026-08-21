@@ -32,3 +32,4 @@ venv/
 secrets.yaml
 *.pem
 *.key
+notebooks/.gradio/
